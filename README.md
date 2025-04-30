@@ -3,7 +3,7 @@
 ## NAME: ARSHATHA 
 ## REG NO: 212222230012
 
-## Aim:
+## AIM:
 
 To use the Data Encryption Standard (DES) algorithm for a practical application, such as securing sensitive data transmission in financial transactions.
 
@@ -78,5 +78,5 @@ To use the Data Encryption Standard (DES) algorithm for a practical application,
 
 
 ## Result:
-  The program is executed successfully
+  The program is executed successfully.
 
